@@ -1,0 +1,25 @@
+ego_vehicle_speed: 7
+vehicle_speed: 7
+cyclist_speed: 7
+parked_vehicle_speed: 0
+
+pedestrian_speed: 4
+
+safe_crossing_pedestrian_distance: 10.46
+dangerous_crossing_pedestrian_distance: 8
+roadside_pedestrian_distance: 4
+
+rear_vehicle_distance: -7.55
+rear_cyclist_distance: -7.55
+
+adjacent_vehicle_distance: 0
+adjacent_cyclist_distance: 0
+
+parked_vehicle_distance: 0
+parked_vehicle_lane_id: 0
+
+age: ['Young Adult','Child','Old']
+gender: ['Male','Female']
+
+d_ped_init,,d_rear_init,
+10.46, 7.55
